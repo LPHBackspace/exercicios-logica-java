@@ -26,7 +26,7 @@ public class Exercicio38 {
             System.out.printf("A sequencia dos números em ordem crescente: %d %d ", valor1, valor2);
         } else {
 
-            System.out.printf("A sequencia dos números em ordem crescente: %d %d", valor2, valor1);
+            System.out.printf("A sequencia dos números em ordem crescente: %d %d ", valor2, valor1);
         }
 
         sc.close();

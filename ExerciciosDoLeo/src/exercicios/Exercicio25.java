@@ -36,7 +36,11 @@ public class Exercicio25 {
         int mult6= valorC * valorD;
 
         System.out.println("Valor A x Valor B= " + mult1 +
-                "Valor A x Valor C= " + mult2);
+                "Valor A x Valor C= " + mult2 +
+                "Valor A x Valor D= " + mult3 +
+                "Valor B x Valor C= " + mult4 +
+                "Valor B x Valor D= " + mult5 +
+                "Valor C x Valor D= " + mult6);
 
         sc.close();
     }

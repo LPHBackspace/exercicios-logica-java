@@ -1,7 +1,10 @@
+/*
 package exercicios;
 
 import java.util.Scanner;
 
+/
+ */
 /**
  *Para o enunciado a seguir foi elaborado um algoritmo em Português Estruturado que contém
  * erros, identifique os erros no algoritmo apresentado abaixo:
@@ -21,7 +24,7 @@ import java.util.Scanner;
  * fim
  */
 
-
+/*
 public class Exercicio41 {
 
     public static void main(String[]args){
@@ -35,11 +38,13 @@ public class Exercicio41 {
         char sexo= sc.next().charAt(0);
 
         if (sexo == "m"){
-            int pesoIdeal=;
+            int pesoIdeal=1;
         } else {
-
+            int pesoIdeal=2;
         }
 
         sc.close();
     }
 }
+
+ */
