@@ -24,7 +24,7 @@ public class Exercicio71 {
 
         int val3 = sc.nextInt();
 
-        System.out.println("Digite o valor de 3");
+        System.out.println("Digite o valor de 4");
 
         int val4 = sc.nextInt();
 
